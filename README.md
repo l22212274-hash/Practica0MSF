@@ -2,7 +2,7 @@
 
 # Práctica 0: Modelo del sistema respiratorio
 
-## Infromación del\la estudiante
+## Infromación de la estudiante
 Ximena Solis Marrufo \[22212274]: Paul A. Valle \[05211261]; l22212274@tectijuana.edu.mx
 
 Modelado de Sistemas Fisiológicos
